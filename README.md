@@ -1,1 +1,1 @@
-# .github
+Osservatorio Nazionale Sovranità Digitale della Pubblica amministrazione Italiana
